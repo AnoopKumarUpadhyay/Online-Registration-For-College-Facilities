@@ -14,5 +14,5 @@ after selecting it from the list and we can get timing (or batch) online.
 Scope:
 
 
-The Scope of the “online registration for college facilities” includes that it is helhul to aal the colleges 
+The Scope of the “online registration for college facilities” includes that it is helpful to all the colleges 
 for registration purpose
